@@ -1,0 +1,1 @@
+Hi! In this project, an array is created holding ints from 1-10, and then we loop through the array and put evens and odds in separate lists, and then print lists' content to the console. This project was made to practice arrays and lists.
